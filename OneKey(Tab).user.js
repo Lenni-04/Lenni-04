@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        OneKey
-// @namespace    https://github.com/Lenni-04/LSS/blob/main/OneKey(Tab).user.js
+// @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Alamieren mit einer Taste
 // @author      JuMaHo
