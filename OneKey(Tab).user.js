@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  Alamieren mit einer Taste
 // @author      JuMaHo
-// @include      *://www.leitstellenspiel.de/
+// @include     *://www.leitstellenspiel.de/
+// @include     *https://github.com/JuMaH0/lss/raw/master/onekey.user.js
 // @grant        none
 // ==/UserScript==
 
