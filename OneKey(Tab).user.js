@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Alamieren mit einer Taste
 // @author      JuMaHo
-// @include      *://www.leitstellenspiel.de/
+// @match        https://www.leitstellenspiel.de/missions/*
 // @grant        none
 // ==/UserScript==
 
