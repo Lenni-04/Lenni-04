@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        OneKey
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Lenni-04/Lenni-04/edit/main/OneKey(Tab)
 // @version      0.1
 // @description  Alamieren mit einer Taste
 // @author      JuMaHo
-// @match        https://www.leitstellenspiel.de/missions/*
+// @include      *://www.leitstellenspiel.de/
 // @grant        none
 // ==/UserScript==
 
