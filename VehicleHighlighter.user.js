@@ -23,7 +23,7 @@
         "RTW": "#FFFF00",
         "KTW": "#FFFF00",
         "KTW Typ B": "#FFFF00",
-        "Rettungshubschrauber": "#FFFF00",
+        "RTH": "#FFFF00",
         "FuStW (DGL)": "#00f",
         "ITW": "#FFFF00",
         "GW-San": "#FFFF00",
