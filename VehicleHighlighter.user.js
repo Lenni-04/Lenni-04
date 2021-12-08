@@ -29,6 +29,7 @@
         "GW-San": "#FFFF00",
         "NAW": "#FFFF00",
         "GRTW": "#FFFF00",
+        "AB-Einsatzleitung": "#0f0",
     };
     let types = Object.keys(colors);
     let hatFz = false;
